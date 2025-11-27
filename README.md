@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdulrahman Mohammed</h1>
+<h1 align="center">Hi 👋, I'm Abdelrahman Mohamed</h1>
 <h3 align="center">A passionate computer engineering student studying at CUFE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdowise-z&label=Profile%20views&color=0e75b6&style=flat" alt="abdowise-z" /> </p>
