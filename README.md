@@ -17,5 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdowise-z&show_icons=true&locale=en&layout=compact" alt="abdowise-z" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdowise-z&show_icons=true&locale=en" alt="abdowise-z" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdowise-z&show_icons=true&locale=en" alt="abdowise-z" /></p> -->
 
